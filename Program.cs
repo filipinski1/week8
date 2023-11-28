@@ -66,6 +66,7 @@ namespace week7
                 Age = age;
 
             }
+
             public void TeacherName()
             {
                 Console.WriteLine($"My name is {Name}");
